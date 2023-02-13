@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I am Roker2
 
-<!--
-**Roker2/Roker2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :man: My name is Dmitry, I am from Belarus
+- :computer: I usually work with C++17
+- 🤖 I am Android maintainer:
+  - Xiaomi Redmi Note 4X Snapdragon
+  - Realme 5 NFC
+- 👯 I’m looking to collaborate with game developers and/or C++ developers from RU/BY/UA in Poland (I need a part-time job)
+- 📫 How to reach me: dimaminko2000@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My PC:
+- Intel Core i5 12400
+- Asus Prime H610-A D4
+- Kingston Fury 3200 8x2 GB
+- Samsung 980 EVO 512 GB
+- WD Blue 2 TB 7200
+- Zalman 650-EBT
+- Aerocool Qs-240
+- ID-Cooling SE-240-XT
+- Asus RX Radeon 6600
