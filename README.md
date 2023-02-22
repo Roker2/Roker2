@@ -6,7 +6,7 @@
   - Xiaomi Redmi Note 4X Snapdragon
   - Realme 5 NFC
 - I want to start to learn Godot
-- 👯 I’m looking to collaborate with game developers and/or C++ developers from RU/BY/UA in Poland (I need a part-time job)
+- 👯 I’m looking to collaborate with game developers and/or C++ developers from RU/BY/UA in Poland (I need a full-time job)
 - 📫 How to reach me: dimaminko2000@gmail.com
 
 My PC:
