@@ -5,7 +5,6 @@
 - 🤖 I am Android maintainer:
   - Xiaomi Redmi Note 4X Snapdragon
   - Realme 5 NFC
-  - Volla Phone 22
 - I want to start to learn Godot and Unreal Engine 4
 - 👯 I’m looking to collaborate with game developers and/or C++ developers from RU/BY/UA in Poland (I need a full-time job)
 - 📫 How to reach me: dimaminko2000@gmail.com
