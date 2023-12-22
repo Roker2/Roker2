@@ -1,11 +1,12 @@
 ### Hi, I am Roker2
 
 - :man: My name is Dmitry
-- :computer: I usually work with C++17 and Qt 5.15, I have 2 years of experience with it
+- :computer: I usually work with C++17 and Qt, I have 2 years of experience with it
 - 🤖 I am Android maintainer:
   - Xiaomi Redmi Note 4X Snapdragon
   - Realme 5 NFC
 - I want to start to learn Godot and Unreal Engine 5
+- I started to learn Axmol Engine ([project](https://github.com/Roker2/PetrCarGame))
 - 📫 How to reach me: dimaminko2000@gmail.com
 
 My PC:
