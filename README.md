@@ -15,7 +15,8 @@ My PC:
 - Intel Core i5 12400
 - Asus Prime H610-A D4
 - Kingston Fury 3200 8x2 GB
-- Samsung 980 EVO 512 GB
+- Samsung 980 512 GB
+- WD Black sn770 1024 GB
 - WD Blue 2 TB 7200
 - Zalman 650-EBT
 - Aerocool Qs-240
